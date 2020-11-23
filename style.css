@@ -17,17 +17,6 @@ body {
     box-shadow: 10px 10px 300px 100px rgba(191, 164, 13, 0.7);
 }
 
-/* .middle {
-    position: relative;
-    width: 12px;
-    height: 12px;
-    left: 49%;
-    top: 49%;
-    background: rgb(43, 42, 42);
-    border-radius: 50%;
-    z-index: 1;
-} */
-
 .clock-face {
     position: relative;
     width: 100%;
@@ -35,7 +24,6 @@ body {
     background-image: url("./clock-back.jpg");
     background-position: center;
     background-size: cover;
-    /* background: radial-gradient(circle, rgb(19, 114, 116) 0%, rgb(158, 117, 27) 100%); */
     border-radius: 50%;
 }
 
