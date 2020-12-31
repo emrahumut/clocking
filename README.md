@@ -1,4 +1,3 @@
 # clocking
 
-
-[Clocking](https://hizliresim.com/r9aZsN)
+![plot](./clocking.png)
