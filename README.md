@@ -1,4 +1,4 @@
 # clocking
 
 
-![Cloking](https://hizliresim.com/r9aZsN)
+[Clocking](https://hizliresim.com/r9aZsN)
